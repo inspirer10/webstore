@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/webstore/static/css/main.9cc5e1e4.css",
-    "main.js": "/webstore/static/js/main.85ae5008.js",
+    "main.css": "/webstore/static/css/main.7d89285f.css",
+    "main.js": "/webstore/static/js/main.58b7e3ca.js",
+    "static/media/blackHoodie2.jpg": "/webstore/static/media/blackHoodie2.c4fa161a45d1fc66ae6c.jpg",
     "index.html": "/webstore/index.html",
-    "main.9cc5e1e4.css.map": "/webstore/static/css/main.9cc5e1e4.css.map",
-    "main.85ae5008.js.map": "/webstore/static/js/main.85ae5008.js.map"
+    "main.7d89285f.css.map": "/webstore/static/css/main.7d89285f.css.map",
+    "main.58b7e3ca.js.map": "/webstore/static/js/main.58b7e3ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cc5e1e4.css",
-    "static/js/main.85ae5008.js"
+    "static/css/main.7d89285f.css",
+    "static/js/main.58b7e3ca.js"
   ]
 }
